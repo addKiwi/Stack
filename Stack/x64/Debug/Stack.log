@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\plaer\source\repos\stack\stack\source.cpp(36): warning C4101: z: неиспользованная локальная переменная
+c:\users\plaer\source\repos\stack\stack\source.cpp(153): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\plaer\source\repos\stack\stack\source.cpp(127): warning C4101: p: неиспользованная локальная переменная
+c:\users\plaer\source\repos\stack\stack\source.cpp(127): warning C4101: d: неиспользованная локальная переменная
+  Stack.vcxproj -> C:\Users\plaer\source\repos\Stack\x64\Debug\Stack.exe
+  Stack.vcxproj -> C:\Users\plaer\source\repos\Stack\x64\Debug\Stack.pdb (Partial PDB)
